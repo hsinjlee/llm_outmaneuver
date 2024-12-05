@@ -1,0 +1,14 @@
+pydantic
+python-dotenv
+black
+openai
+anthropic
+google.generativeai
+streamlit
+pandas
+charset_normalizer
+watchdog
+pymongo
+numpy
+scipy
+trueskill
